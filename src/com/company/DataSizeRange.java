@@ -5,9 +5,9 @@ public class DataSizeRange
 {
     public static void main(String args[])
     {
-        System.out.println("Int Min:" +Integer.MIN_VALUE);
-        System.out.println("Int Max:" +Integer.MAX_VALUE);
-        System.out.println("Int Byte:" +Integer.BYTES);
 
+        System.out.println("Float max:" +Integer.MAX_VALUE);
+        System.out.println("Float min:" +Integer.MIN_VALUE);
+        System.out.println("Float bytes:" +Integer.BYTES);
     }
 }
