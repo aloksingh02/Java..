@@ -23,7 +23,8 @@ public class STRING_QUANTIFIERS {
 
         //for email
         String str1 = "john@gmail.com";
-        System.out.println(str1.matches("\\w*@gmail(.*)"));
+
+
 
 
 
