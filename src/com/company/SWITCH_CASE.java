@@ -5,6 +5,14 @@ public class SWITCH_CASE {
     {
         int day = 4;
         switch (day)
+                //BYTE
+                //SHORT
+                //INT
+
+                //CHAR
+                //STRING
+
+                //
         {
             case 1:
                 System.out.println("MONDAY");
