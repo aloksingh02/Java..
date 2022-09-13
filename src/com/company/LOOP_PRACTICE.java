@@ -15,13 +15,20 @@ public class LOOP_PRACTICE {
 
 
         //SUM OF THE first n NUMBER
-        int sum=0;
-        for(int i=1;  i<=n; i++)
-        {
-            sum=sum+i;
-        }
-        System.out.println("Sum of "+n+" Number is "+sum);
 
+
+       // int sum=0;
+        //for(int i=1;  i<=n; i++)
+       // {
+         //   sum=sum+i;
+        // }
+        //System.out.println("Sum of "+n+" Number is "+sum);
+        long fact = 1;
+        for(int i=1;i<=n;i++)
+        {
+              fact=fact*i;
+        }
+        System.out.println("factorial is :" +fact);
 
     }
 }
