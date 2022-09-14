@@ -54,7 +54,7 @@ public class PATTERN_1 {
                     //System.out.print(i);
                     //System.out.print("* ");
                     //System.out.print(count+" ");
-                    
+
                 }
                 System.out.println("");
             }
