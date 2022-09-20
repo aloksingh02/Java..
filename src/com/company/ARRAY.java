@@ -3,6 +3,7 @@ package com.company;
 public class ARRAY {
     public static void main(String[] args) {
          //WAY OF DECLARATION OF ARRAY
+        //A[] = reference and new side is object
          int A[] = new int[10];
          int B[] = {1,2,3,4,5};
          int C[];
